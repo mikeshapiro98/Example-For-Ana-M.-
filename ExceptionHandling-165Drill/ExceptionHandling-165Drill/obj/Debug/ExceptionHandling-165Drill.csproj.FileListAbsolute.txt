@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\bin\Debug\ExceptionHandling-165Drill.exe.config
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\bin\Debug\ExceptionHandling-165Drill.exe
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\bin\Debug\ExceptionHandling-165Drill.pdb
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\obj\Debug\ExceptionHandling-165Drill.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\obj\Debug\ExceptionHandling-165Drill.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\obj\Debug\ExceptionHandling-165Drill.exe
+C:\Users\micha\OneDrive\Desktop\Student grading\AnaC#\The-Tech-Academy-C-Sharp-Coding-Projects\ExceptionHandling-165Drill\ExceptionHandling-165Drill\obj\Debug\ExceptionHandling-165Drill.pdb
